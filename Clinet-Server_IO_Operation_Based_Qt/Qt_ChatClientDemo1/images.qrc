@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/bg.jpg</file>
+        <file>image/clear.jpg</file>
+        <file>image/connect.jpg</file>
+        <file>image/disconnect.jpg</file>
+        <file>image/exit.jpg</file>
+        <file>image/logo.jpg</file>
+        <file>image/openfile.jpg</file>
+        <file>image/sendfile.jpg</file>
+        <file>image/sendmsg.jpg</file>
+    </qresource>
+</RCC>
